@@ -3,3 +3,11 @@ languageCode = 'en-us'
 title = 'Geonarvis Blog'
 
 theme = "hugo-blog-awesome"
+
+[params]
+  avatar = "/avatar.jpg"
+  author = "Geonarvis"
+  description = "A minimalistic blog about technology and life"
+  
+  # 其他可选配置
+  goToTop = true
