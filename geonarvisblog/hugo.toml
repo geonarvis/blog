@@ -1,0 +1,5 @@
+baseURL = 'https://geonarvis.github.io.git/'
+languageCode = 'en-us'
+title = 'Geonarvis Blog'
+
+theme = "hugo-blog-awesome"

@@ -1,0 +1,4 @@
+[submodule "geonarvisblog/public"]
+	path = geonarvisblog/public
+	url = https://github.com/geonarvis/geonarvis.github.io.git
+	branch = main
